@@ -1,18 +1,13 @@
-### 七碳烷烃 Isoheptane
-🐱 是一只工程师猫娘  
-❓ 但是不知道要写什么呢
+### I'm Isoheptane (七碳烷烃). 👋
+I am a engineer neko from China, currently studying at senior high school. I'm planning to major in computer science at college. I'm also planning to study CGI in my spare time.
 
-<!--
-**Isoheptane/Isoheptane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I want to be an adorable nekomusume and make others feel comfortable with me. *Nya~*
 
-Here are some ideas to get you started:
+### 📫 How to reach me:
+- Twitter: [@ArcadiaIso](https://twitter.com/ArcadiaIso)
+- Telegram: [@Isoheptane](https://t.me/Isoheptane)
+- Email: <chomodiso@outlook.com>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Avatar is from ゾイルン ( [Pixiv]( https://www.pixiv.net/users/2882559) / [Twitter](https://twitter.com/Zoirun) )
