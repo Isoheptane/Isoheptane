@@ -1,5 +1,5 @@
 ### I'm Isoheptane (七碳烷烃). 👋
-I am a engineer neko from China, currently studying at senior high school. I'm planning to major in computer science at college. I'm also planning to study CGI in my spare time.
+I am a engineer neko from China, currently studying at senior high school. I'm planning to major in computer science at college, but I also have interest in CGI and media production.
 
 I want to be an adorable nekomusume and make others feel comfortable with me. *Nya~*
 
