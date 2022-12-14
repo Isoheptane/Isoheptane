@@ -10,4 +10,4 @@ I want to be an adorable nekomusume and make others feel comfortable with me. *N
 
 ---
 
-Avatar is from ゾイルン ( [Pixiv]( https://www.pixiv.net/users/2882559) / [Twitter](https://twitter.com/Zoirun) )
+Avatar is from ゾイルン ( [Pixiv](https://www.pixiv.net/users/2882559) / [Twitter](https://twitter.com/Zoirun) ), thank 
