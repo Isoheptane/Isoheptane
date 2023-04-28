@@ -1,13 +1,11 @@
 ### I'm Isoheptane (七碳烷烃). 👋
-I am a engineer neko from China, currently studying at senior high school. I'm planning to major in computer science at college, but I also have interest in CGI and media production.
+Here is Isoheptane, a *nekomusume* who is into computer science and media production. It's my great honor if you would like to appreciate my works!
 
-I want to be an adorable nekomusume and make others feel comfortable with me. *Nya~*
-
-### 📫 How to reach me:
-- Twitter: [@ArcadiaIso](https://twitter.com/ArcadiaIso)
-- Telegram: [@Isoheptane](https://t.me/Isoheptane)
-- Email: <chomodiso@outlook.com>  
+### 📫 How to reach me?
+[![CascadeNets](https://img.shields.io/static/v1?label=Twitter&message=CascadeNets&color=1da1f2&style=flat-square&logo=twitter)](https://twitter.com/CascadeNets)
+[![Isoheptane](https://img.shields.io/static/v1?label=Telegram&message=Isoheptane&color=0088cc&style=flat-square&logo=telegram)](https://t.me/Isoheptane)
+[![chomodiso@outlook.com](https://img.shields.io/static/v1?label=email&message=chomodiso@outlook.com&color=white&style=flat-square&logo)](mailto://chomodiso@outlook.com)
 
 ---
 
-Avatar is from ゾイルン ( [Pixiv](https://www.pixiv.net/users/2882559) / [Twitter](https://twitter.com/Zoirun) ), thank 
+Avatar is from ゾイルン ( [Pixiv](https://www.pixiv.net/users/2882559) / [Twitter](https://twitter.com/Zoirun) )
