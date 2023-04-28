@@ -1,5 +1,5 @@
 ### I'm Isoheptane (七碳烷烃). 👋
-Here is Isoheptane, a *nekomusume* who is into computer science and media production. It's my great honor if you would like to appreciate my works!
+Here is Isoheptane, a *nekomusume* who is into computer science and media production.
 
 ![](https://img.shields.io/static/v1?label=&message=C%2b%2b&color=00599c&style=for-the-badge&logo=C%2b%2b&logoColor=white)
 ![](https://img.shields.io/static/v1?label=&message=C%23&color=239120&style=for-the-badge&logo=C%20Sharp&logoColor=white)
