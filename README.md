@@ -5,7 +5,7 @@ Here is **Isoheptane**, a *nekomusume* who is into computer science and media pr
 - :speech_balloon: I speak `zh_cn` and `en`. I'm also planning to learn `jp`.
 
 ### Languages
-![C++](https://img.shields.io/badge/C%2b%2b&-00599C.svg?style=for-the-badge&logo=C%2b%2b&logoColor=white)
+![C++](https://img.shields.io/badge/C%2b%2b-00599C.svg?style=for-the-badge&logo=C%2b%2b&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
