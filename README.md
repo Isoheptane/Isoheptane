@@ -1,4 +1,4 @@
-### Hello there! :wave:
+## Hello there! :wave:
 Here is **Isoheptane**, a *nekomusume* who is into computer science and media production.
 
 - :books: Currently studying at a senior high school.
@@ -21,9 +21,9 @@ Here is **Isoheptane**, a *nekomusume* who is into computer science and media pr
 
 - Skilled in **Hard Surface Modelling**, **Rendering** and **Video Editing**.
 - Know a little about **Graphic Design**.
-- *Used to use Adobe softwares (Photoshop, Premiere, Audition, After Effects, etc.) and **Cinema 4D**, but now switched to open source softwares.*
+- *Used to use **Adobe softwares** (Photoshop, Premiere, Audition, After Effects, etc.) and **Cinema 4D**, but now switched to **open source softwares**.*
 
-#### Wanted to Learn
+#### Wanted to Do / Learn
 - :camera: Photography and Cinematography
 - :globe_with_meridians: Computer Networking *in practice*
 
