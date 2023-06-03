@@ -17,7 +17,6 @@ Here is **Isoheptane**, a *nekomusume* who is into computer science and media pr
 ### Other Skills
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-E0E0E0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 - Skilled in **Hard Surface Modelling**, **Rendering** and **Video Editing**.
 - Know a little about **Graphic Design**.
