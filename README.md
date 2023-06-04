@@ -7,7 +7,7 @@ Here is **Isoheptane**, a *nekomusume* who is into computer science and media pr
 ### Languages
 ![C++](https://img.shields.io/badge/C%2b%2b-00599C.svg?style=for-the-badge&logo=C%2b%2b&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - Familiar with **C++** and **C#**, but not familiar with their new features (eg. C++20).
