@@ -1,8 +1,9 @@
 ## Hello there! :wave:
 Here is **Isoheptane**, a *nekomusume* who is into computer science and media production.
 
-- :books: Currently studying at a senior high school.
+- :books: Currently preparing for college entrance.
 - :speech_balloon: I speak `zh_cn` and `en`. I'm also planning to learn `ja`.
+- :sob: Suffering domestic violence.
 
 ### Languages
 ![C++](https://img.shields.io/badge/C%2b%2b-00599C.svg?style=for-the-badge&logo=C%2b%2b&logoColor=white)
