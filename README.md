@@ -4,7 +4,7 @@ I'm **Isoheptane**, a *nekomusume* who is into computer science and media produc
 - 👋 You can call me **Isoheptane**, **七碳**, **C7** or **7C**.
 - 💬 Mainly use **Chinese** and **English**. Also planning to learn **Japanese**.
 - 🏖️ Senior high school gratuate, currently having a long vacation after college entrance exam.
-- ✨ I'm interseted in a variety of things.
+- ✨ Interseted in a variety of things.
 
 - - -
 
@@ -26,6 +26,11 @@ I'm **Isoheptane**, a *nekomusume* who is into computer science and media produc
 [![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)![](https://img.shields.io/badge/Terminal-242930?style=for-the-badge)](https://alacritty.org/)  
 [![Code - OSS](https://img.shields.io/badge/Code_--_OSS-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![](https://img.shields.io/badge/Editor-242930?style=for-the-badge)](https://github.com/microsoft/vscode)  
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)![](https://img.shields.io/badge/Browser-242930?style=for-the-badge)](https://www.mozilla.org/)  
+
+- - -
+
+### Other Skills
+
 
 - - -
 
