@@ -1,19 +1,19 @@
-## Hello there! 👋
+## Hello there! 🌠
 Here is **Isoheptane**, a *nekomusume* who is into computer science and media production.
 
-- 📚 Currently preparing for college entrance.
+- 👋 Call me **Isoheptane**, **七碳**, **C7** or **7C** are all fine.
 - 💬 I use `zh_cn` and `en`. I'm also planning to learn `ja`.
+- 🏖️ Senior high school gratuate, currently having a long vacation after college entrance exam.
 
 - - -
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isoheptane&layout=compact&bg_color=353b43&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20"/>
 
 #### Development
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 #### Operations
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -30,9 +30,6 @@ Here is **Isoheptane**, a *nekomusume* who is into computer science and media pr
 #### Wanted to Do / Learn
 - 🎥 Photography and Cinematography
 - 🌐 Computer Networking *in practice*
-
-### Env
-![CPU](https://img.shields.io/badge/AMD%20Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 ### 📫 How to reach me?
 [![CascadeNets](https://img.shields.io/static/v1?label=Twitter&message=CascadeNets&color=1da1f2&style=flat-square&logo=twitter)](https://twitter.com/CascadeNets)  
