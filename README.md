@@ -8,9 +8,6 @@ I'm **Isoheptane**, a *nekomusume* who is into computer science and media produc
 - ✨ Interseted in a variety of things.
 - 💬 Feel free to ask me about anyting.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isoheptane&layout=compact&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20" />
-<img src="https://github-readme-stats.vercel.app/api?username=Isoheptane&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=57cc8a&ring_color=57cc8a&border_radius=20" />
-
 - - -
 
 ### Technology Stack
@@ -37,8 +34,10 @@ I'm **Isoheptane**, a *nekomusume* who is into computer science and media produc
 
 - - -
 
-### Other Skills
+### GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=Isoheptane&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=57cc8a&ring_color=57cc8a&border_radius=20)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isoheptane&layout=compact&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20)
 
 - - -
 
