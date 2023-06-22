@@ -1,13 +1,14 @@
 ## Welcome! Here is Isoheptane 🌠
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Isoheptane&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=57cc8a&ring_color=57cc8a&border_radius=20" />
-
 I'm **Isoheptane**, a *nekomusume* who is into computer science and media production.
 
 - 👋 You can call me **Isoheptane**, **七碳**, **C7** or **7C**.
 - 💬 Mainly use **Chinese** and **English**. Also planning to learn **Japanese**.
 - 🏖️ Senior high school gratuate, currently having a long vacation after college entrance exam.
 - ✨ Interseted in a variety of things.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isoheptane&layout=compact&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20" />
+<img src="https://github-readme-stats.vercel.app/api?username=Isoheptane&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=57cc8a&ring_color=57cc8a&border_radius=20" />
 
 - - -
 
@@ -22,8 +23,6 @@ I'm **Isoheptane**, a *nekomusume* who is into computer science and media produc
 ![](https://img.shields.io/badge/Want_To_Learn-242930?style=for-the-badge)![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ### Environment 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Isoheptane&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=57cc8a&ring_color=57cc8a&border_radius=20" />
 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)![](https://img.shields.io/badge/OS-242930?style=for-the-badge)](https://archlinux.org/)  
 [![OpenZFS](https://img.shields.io/badge/OpenZFS-2A667F?style=for-the-badge&logo=openzfs&logoColor=white)![](https://img.shields.io/badge/File_System-242930?style=for-the-badge)](https://openzfs.org/)  
