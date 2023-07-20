@@ -18,6 +18,7 @@ I'm **Isoheptane**, a *nekomusume* who is into computer science and media produc
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
@@ -26,6 +27,7 @@ I'm **Isoheptane**, a *nekomusume* who is into computer science and media produc
 - **Rust** and **C++** are my primary languages.
 - Used to develop with **C#** and **Python**.
 - Familiar with **HTML**, **CSS** and **Sass**, but not familiar with front-end frameworks.
+- Learning **React**.
 - **Hugo** as [blog](https://blog.cascade.moe/) framework.
 - Know a little about **Docker**.
 
