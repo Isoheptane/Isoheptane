@@ -49,6 +49,7 @@ I'm **Isoheptane**, a *nekomusume* who is into computer science and media produc
 ### 📫 How to reach me?
 
 [![Outlook](https://img.shields.io/badge/chomodiso@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:chomodiso@outlook.com)
+[![Misskey](https://img.shields.io/badge/@Isoheptane-A1CA03?style=for-the-badge&logo=Misskey&logoColor=white)](https://misskey.cascade.moe/@Isoheptane)
 [![Twitter](https://img.shields.io/badge/@CascadeNets-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CascadeNets)
 [![Telegram](https://img.shields.io/badge/@Isoheptane-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Isoheptane)
 
