@@ -4,7 +4,6 @@ I'm **Isoheptane**, a *nekomusume* who is into computer science and media produc
 
 - 👋 You can call me **Isoheptane**, **七碳**, **C7** or **7C**.
 - 🌏 Mainly use **Chinese** and **English**. Also planning to learn **Japanese**.
-- 🏖️ Senior high school gratuate, currently having a long vacation after college entrance exam.
 - ✨ Interseted in a variety of things.
 - 💬 Feel free to ask me about anyting.
 
