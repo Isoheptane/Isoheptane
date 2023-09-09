@@ -2,7 +2,7 @@
 
 I'm **Isoheptane**, a *nekomusume* who is into computer science and media production.
 
-- 👋 You can call me **Isoheptane**, **七碳**, **C7** or **7C**. You can also call me **Cascade**.
+- 👋 My name is **Cascade**, but you can also call me by my nickname **Isoheptane**, **七碳**, **C7** or **7C**.
 - 🌏 Mainly use **Chinese** and **English**. Also planning to learn **Japanese**.
 - ✨ Interseted in a variety of things.
 - 💬 Feel free to ask me about anyting.
