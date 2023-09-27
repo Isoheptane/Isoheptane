@@ -33,13 +33,11 @@ I'm **Isoheptane**, a *nekomusume* who is into computer science and media produc
   <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a>
   <a href="https://openzfs.org/"><img src="https://img.shields.io/badge/OpenZFS-2A667F?style=for-the-badge&logo=openzfs&logoColor=white" /></a>
   <a href="https://alacritty.org/"><img src="https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" /></a>
-  <a href="https://github.com/microsoft/vscode"><img src="https://img.shields.io/badge/Code_OSS-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
   <a href="https://www.mozilla.org/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
 </div>
 
 - I use **Arch Linux** on my own PC and **Debian** on servers.
 - I use **ZFS** as file system. Arch Linux is installed on ZFS.
-- **Code - OSS** is basically vscode.
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Isoheptane&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=57cc8a&ring_color=57cc8a&border_radius=20)
