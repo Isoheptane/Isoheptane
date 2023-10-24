@@ -2,7 +2,7 @@
 
 I'm **Isoheptane**, a *nekomusume* who is into computer science and media production.
 
-- 👋 My name is **Cascade**, but you can also call me by my nickname **Isoheptane**, **七碳**, **C7** or **7C**.
+- 👋 You can call me by my nickname **Isoheptane**, **七碳**, **C7** or **7C**.
 - 🌏 Mainly use **Chinese** and **English**. Also planning to learn **Japanese**.
 - ✨ Interseted in a variety of things.
 - 💬 Feel free to ask me about anyting.
@@ -36,8 +36,9 @@ I'm **Isoheptane**, a *nekomusume* who is into computer science and media produc
   <a href="https://www.mozilla.org/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
 </div>
 
-- I use **Arch Linux** on my own PC and **Debian** on servers.
-- I use **ZFS** as file system. Arch Linux is installed on ZFS.
+- Use **Arch Linux** on my own PC and **Debian** on servers.
+- Use **ZFS** as file system. Arch Linux is installed on ZFS.
+- Use **Hyprland** as desktop environment.
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Isoheptane&show_icons=true&text_bold=false&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&icon_color=57cc8a&ring_color=57cc8a&border_radius=20)
