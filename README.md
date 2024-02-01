@@ -1,18 +1,18 @@
-## Welcome! Here is Isoheptane 🌠
+## Welcome! Here is Cascade 🌠
 
-I'm **Isoheptane**, a *nekomusume* who is into computer science and media production.
+I'm **Cascade Kobayashi**, a *neko-musume* who is into computer science and media production~
 
-- 👋 You can call me by my nickname **Isoheptane**, **七碳**, **C7** or **7C**.
-- 🌏 Mainly use **Chinese** and **English**. Also planning to learn **Japanese**.
-- ✨ Interseted in a variety of things.
-- 💬 Feel free to ask me about anyting.
+- 👋 You can call me by my former nickname **Isoheptane**, **七碳**, **C7** or **7C**.
+- 🌏 Mainly use **Chinese** and **English**. I am also planning to learn **Japanese**.
+- ✨ Interested in a variety of things.
+- 💬 Feel free to ask me about anything!
 
 ### Technology Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
@@ -31,13 +31,11 @@ I'm **Isoheptane**, a *nekomusume* who is into computer science and media produc
 <div align="center">
   <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /></a>
   <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /></a>
-  <a href="https://openzfs.org/"><img src="https://img.shields.io/badge/OpenZFS-2A667F?style=for-the-badge&logo=openzfs&logoColor=white" /></a>
   <a href="https://alacritty.org/"><img src="https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" /></a>
   <a href="https://www.mozilla.org/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
 </div>
 
 - Use **Arch Linux** on my own PC and **Debian** on servers.
-- Use **ZFS** as file system. Arch Linux is installed on ZFS.
 - Use **Hyprland** as desktop environment.
 
 ### GitHub Stats
