@@ -2,7 +2,7 @@
 
 I'm **Cascade Kobayashi**, a *neko-musume* who is into computer science and media production~
 
-- 👋 You can call me by my former nickname **Isoheptane**, **七碳**, **C7** or **7C**.
+- 👋 You can call me by name **Cascade** or my former nickname **Isoheptane**, **七碳**, **C7** or **7C**.
 - 🌏 Mainly use **Chinese** and **English**. I am also planning to learn **Japanese**.
 - ✨ Interested in a variety of things.
 - 💬 Feel free to ask me about anything!
