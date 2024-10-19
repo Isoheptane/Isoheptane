@@ -44,8 +44,7 @@ I'm **Cascade Kobayashi**, a *neko-musume* who is into computer science and medi
 ### 📫 How to reach me?
 
 [![Outlook](https://img.shields.io/badge/chomodiso@outlook.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chomodiso@outlook.com)
-[![Misskey](https://img.shields.io/badge/@Isoheptane-A1CA03?style=for-the-badge&logo=Misskey&logoColor=white)](https://misskey.cascade.moe/@Isoheptane)
-[![Telegram](https://img.shields.io/badge/@Isoheptane-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Isoheptane)
+[![Bluesky](https://img.shields.io/badge/@cascade.moe-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/cascade.moe)
 
 - Other contacts may not be available, but you can always reach me by email.
 
