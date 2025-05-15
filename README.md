@@ -17,6 +17,7 @@ I'm **Cascade Kobayashi**, a *neko-musume* who is into computer science and medi
   <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
 </div>
 
 - **Rust** and **C/C++** are my primary languages.
@@ -24,6 +25,7 @@ I'm **Cascade Kobayashi**, a *neko-musume* who is into computer science and medi
 - Learning **React**.
 - **Hugo** as [blog](https://blog.cascade.moe/) framework.
 - Know a little about **Docker**.
+- I also do hardware designing with KiCAD.
 
 ### Environment 
 
