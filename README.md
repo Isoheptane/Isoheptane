@@ -1,6 +1,6 @@
 ## Welcome! Here is Cascade 🌠
 
-I'm **Cascade Kobayashi**. An CS student with passion in electronics and media production.
+I'm **Cascade Kobayashi**. An ordinary passing-by nekomusume.
 
 - You can call me by name **Cascade** or my former nickname **Isoheptane**, **七碳**, **C7** or **7C**.
 - Mainly use **Chinese** and **English**. I am also planning to learn **Japanese**.
