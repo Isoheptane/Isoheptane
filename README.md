@@ -46,10 +46,3 @@ I'm **Cascade Kobayashi**. An ordinary passing-by nekomusume.
 ### 📫 How to reach me?
 
 [![Outlook](https://img.shields.io/badge/chomodiso@outlook.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chomodiso@outlook.com)
-[![Bluesky](https://img.shields.io/badge/@cascade.moe-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/cascade.moe)
-
-- Other contacts may not be available, but you can always reach me by email.
-
-- - -
-
-Avatar is from ゾイルン ( [Pixiv](https://www.pixiv.net/users/2882559) / [Twitter](https://twitter.com/Zoirun) )
