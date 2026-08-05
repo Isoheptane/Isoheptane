@@ -13,18 +13,10 @@ I'm **Cascade Kobayashi**. An ordinary passing-by nekomusume.
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/KiCAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
 </div>
 
 - **Rust** and **C/C++** are my primary languages.
-- Used to develop with **C#** and **Python**.
-- Learning **React**.
-- **Hugo** as [blog](https://blog.cascade.moe/) framework.
-- Know a little about **Docker**.
 - I also do hardware designing with KiCAD.
 
 ### Environment 
